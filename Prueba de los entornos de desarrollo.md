@@ -11,8 +11,32 @@ Haremos lo mismo con *Calculadora.py* y *Calculadora_Grafica*.
     <img src="imagenes\9.png" alt="Config Nano">
 </p>
 
-Y ahora ya sólo tenemos que compilar y ejecuralo.
+Es importante instalar un intérprete de Python para Windows. Nosotros lo hicimos como se muestra a continuación:
+<p>
+    <img src="imagenes/10.png" alt="Config Nano">
+</p>
+Y ahora ya sólo tenemos que compilar y ejecuralo. Para ello tenemos que ir al código que queramos ejecutar y darle al boton de *"play"* tal y como se muestra en la siguiente imagen:
+<p>
+    <img src="imagenes/11.png" alt="Config Nano">
+</p>
 
+Y ya tendríamos la calculadora en modo gráfico para hacer las operaciones correspondientes.
+## Calculadora.py 
 
+<p>
+    <img src="imagenes/12.png" alt="Config Nano">
+</p>
 
+## Calculadora_Basica.py 
+<p>
+    <img src="imagenes/13.png" alt="Config Nano">
+</p>
+
+## Calculadora_Grafica.py 
+<p>
+    <img src="imagenes/14.png" alt="Config Nano">
+</p>
+
+## Conclusion
+Probar el código de calculadoras básicas en Python permite garantizar la correcta funcionalidad de las operaciones aritméticas fundamentales, como suma, resta, multiplicación y división. Estas pruebas aseguran que el programa maneje adecuadamente diferentes casos, incluidos valores positivos, negativos, decimales y errores comunes, como divisiones por cero. Además, el proceso fomenta buenas prácticas de programación, como la validación de entradas y el manejo de excepciones, proporcionando una herramienta confiable y eficiente para el usuario final.
 </div>
