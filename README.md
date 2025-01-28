@@ -12,7 +12,7 @@ A lo largo de esta actividad, abordaremos tres objetivos clave que nos permitir�
 
 Instalar extensiones en un IDE, ampliando sus capacidades para adaptarlo a las necesidades del desarrollo.
 
-### [3. Probar los entornos de Desarrollo:](/Prueba de los entornos de desarrollo.md)
+### [3. Probar los entornos de Desarrollo:](/Prueba_de_los_entornos_de_desarrollo.md)
 
 Probar los entornos de desarrollo, verificando su configuración y funcionalidad.
 Con estos pasos, sentaremos las bases para un proceso de desarrollo más eficiente, seguro y adaptable.
